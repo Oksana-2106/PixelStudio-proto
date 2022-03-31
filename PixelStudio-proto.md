@@ -30,11 +30,11 @@ Systems can offer centrally-tuned responsive type sizes across a predictable set
 As a system gets started with type, dig into details and start some conventions, such as how you’ll cope with line-height. However, avoid finalizing all rules before making the first thing. Instead, be comfortable with chaos early and smooth details as a library takes shape. As you near a major release, lock in conventions and ensure tools are consistently applied.
 
 ## Text color
-- ***Primary***, for most interface text whether body or heading.
-- ***Secondary***, for diminished contrast (often, the “gray text”) for supplemental information.
-- ***Interactive***, not just for links but also flat buttons, tab labels, and more.
-- ***Disabled***, often resulting is especially lower contrast treatments.
-- ***An invitation*** to contact a technical architect, since a license for the font is required. Organizations requires this to control the recurring and often non-trivial cost of hosting and serving the font.
+* ***Primary***, for most interface text whether body or heading.
+* ***Secondary***, for diminished contrast (often, the “gray text”) for supplemental information.
+* ***Interactive***, not just for links but also flat buttons, tab labels, and more.
+* ***Disabled***, often resulting is especially lower contrast treatments.
+* ***An invitation*** to contact a technical architect, since a license for the font is required. Organizations requires this to control the recurring and often non-trivial cost of hosting and serving the font.
 
 ## From Flickr
 
