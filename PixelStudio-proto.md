@@ -69,3 +69,29 @@ Company name
 999 00 City name
 Phone: +000 987 654321
 Email: sales@yourcompany.com
+
+### PixelStudio
+A true business companion a true business companion a true business companion A true business companion a true business companion a true business companion
+##### SOCIAL
+##### FEATURES
+* Engagement
+* Retention
+* Funnels
+##### RESOURCES
+* Enterprice
+* SaaS
+* Financial services
+* Consumer Tech
+##### MENU
+* Home
+* Portfolio
+* My work
+* About me
+* Element
+* Contact
+##### INFORMATION
+* About us
+* Terms & Conditions
+* Users guide
+* Support center
+* Press info
